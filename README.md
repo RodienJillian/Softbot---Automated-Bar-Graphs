@@ -43,7 +43,7 @@ Make sure your Excel file is in the format:
 2. Run the Script
 Simply place the script in the directory where you want to monitor for Excel files, then run it using:
 ```bash
-python main.py
+python automatedBarGraph.py
 ```
 
 3. Place Excel Files
