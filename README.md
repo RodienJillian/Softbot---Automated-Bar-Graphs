@@ -24,7 +24,8 @@ This project automates the generation of bar graphs from data stored in Excel fi
 To install the required Python libraries, run:
 
 ```bash
-pip install pandas matplotlib numpy
+pip install pandas matplotlib numpy```
+
 
 ### File Requirements:
   - An Excel file (.xlsx) with at least two columns.
@@ -42,7 +43,7 @@ Make sure your Excel file is in the format:
 2. Run the Script
 Simply place the script in the directory where you want to monitor for Excel files, then run it using:
 ```bash
-python main.py
+python main.py```
 
 3. Place Excel Files
 Once the script is running, drop your .xlsx files into the same directory. The script will automatically detect new files, process the data, and generate the bar graphs.
