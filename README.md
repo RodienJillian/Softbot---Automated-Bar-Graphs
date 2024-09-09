@@ -55,9 +55,9 @@ The generated bar graphs will be saved as .jpg files inside a folder named "Auto
 ## Credits
 
 This script was developed using:
-Pandas: A Python library for data manipulation and analysis.
-Matplotlib: A Python 2D plotting library which produces publication-quality figures.
-NumPy: A Python library used for numerical computations.
+- Pandas: A Python library for data manipulation and analysis.
+- Matplotlib: A Python 2D plotting library which produces publication-quality figures.
+- NumPy: A Python library used for numerical computations.
 
 ## License
 
