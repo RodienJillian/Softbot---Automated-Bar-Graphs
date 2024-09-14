@@ -1,7 +1,5 @@
 # Automated Bar Graph Generator
 
-## What
-
 This project automates the generation of bar graphs from data stored in Excel files (`.xlsx`). The program monitors the current directory for new Excel files and, upon detecting one, reads the data from the file and generates a bar graph for each row. Each graph is saved as a `.jpg` file, organized into a separate subfolder for each Excel file.
 
 ### Features:
